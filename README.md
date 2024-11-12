@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi Developers 👋!
 
-<!--
-**YashBhawsar23/YashBhawsar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate JavaScript Full Stack Developer with expertise in building modern, responsive, and interactive applications. I have strong problem-solving abilities and hands-on experience with frontend and backend technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Skills
+- **Languages**: JavaScript
+- **Frameworks/Libraries**: React.js, Redux, Tailwind CSS, Framer Motion
+
+### Backend Skills
+- **Languages**: Java, JavaScript (Node.js)
+- **Frameworks/Libraries**: Node.js, Express.js
+- **Databases**: MySQL, MongoDB
+
+### Tools
+- **API Testing**: Postman
+- **Version Control**: Git, GitHub
+
+### Additional Skills
+- **Real-Time Communication**: WebRTC, Socket.io
+- **Cloud Platforms**: Firebase
+
+
